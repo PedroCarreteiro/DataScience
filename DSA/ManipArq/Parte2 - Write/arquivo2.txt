@@ -1,0 +1,1 @@
+Aprendendo a programar em Python. E a metodologia da DSA facilita o aprendizado.
